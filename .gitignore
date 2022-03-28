@@ -1,0 +1,21 @@
+# Cruft
+*~
+*#
+.#*
+.DS_Store
+*/.DS_Store
+
+
+# Logs
+*.log
+
+# npm
+node_modules/
+.npm
+npm-debug.log*
+/build*
+
+# Editor/IDE
+.idea
+.vscode
+packages/api/etc/
